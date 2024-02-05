@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Rafael</h1>
-<h3 align="center">Self-taught developer from Cuba, currently focused on web development.</h3>
+<h3 align="center">Self-taught developer from Cuba🇨🇺, currently focused on web development👨‍💻.</h3>
 
 - 📫 How to reach me **joserafaelperezr@icloud.com**
 
