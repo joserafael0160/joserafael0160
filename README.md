@@ -5,6 +5,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+<a href="www.linkedin.com/in/joserafael016" target="blank"><img align="center" src="resources/icon-linkedin.png" alt="jose_rafael016" height="40" /></a>
 <a href="https://twitter.com/jose_rafael016" target="blank"><img align="center" src="resources/icon-twitterx.png" alt="jose_rafael016" height="40" /></a>
 <a href="https://instagram.com/jose_rafael0160" target="blank"><img align="center" src="resources/icon-instagram.png" alt="jose_rafael0160" height="30"/></a>
 </div>
