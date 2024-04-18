@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm José Rafael</h1>
-<h3 align="center">Self-taught developer from Cuba🇨🇺, currently focused on web development👨‍💻.</h3>
+<h2 align="center">Self-taught developer from Cuba🇨🇺, currently focused on web development👨‍💻.</h2>
 
 - 📫 How to reach me **joserafaelperezr@icloud.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 <a href="https://twitter.com/jose_rafael016" target="blank"><img align="center" src="resources/icon-twitterx.png" alt="jose_rafael016" height="40" /></a>
 <a href="https://instagram.com/jose_rafael0160" target="blank"><img align="center" src="resources/icon-instagram.png" alt="jose_rafael0160" height="30"/></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<div align="center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="resources/icon-cpp.png" alt="cplusplus" width="40" height="40"/> 
   </a> 
@@ -30,10 +30,10 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="resources/icon-linux.png"  alt="linux" width="40" height="40"/> 
   </a> 
-</p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joserafael0160&show_icons=true&locale=en&layout=compact" alt="joserafael0160" /></p>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joserafael0160&show_icons=true&locale=en&layout=compact" alt="joserafael0160" /></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joserafael0160&show_icons=true&locale=en" alt="joserafael0160" /></p>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joserafael0160&show_icons=true&locale=en" alt="joserafael0160" /></div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joserafael0160&" alt="joserafael0160" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joserafael0160&" alt="joserafael0160" /></div>
