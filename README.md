@@ -37,4 +37,5 @@
 
 <div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joserafael0160&show_icons=true&locale=en" alt="joserafael0160" /></div>
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joserafael0160&" alt="joserafael0160" /></div>
+<div>
+  ![github contribution grid snake animation](https://github.com/joserafael0160/joserafael0160/blob/output/github-contribution-grid-snake.svg)</div>
