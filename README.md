@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Rafael</h1>
-<h2 align="center">Self-taught developer from Cuba🇨🇺, currently focused on web development👨‍💻.</h2>
+<h2 align="center">Self-taught developer from Cuba 🇨🇺, currently focused on web development👨‍💻.</h2>
 
 - 📫 How to reach me **joserafaelperezr@icloud.com**
 
@@ -33,11 +33,18 @@
   </a> 
 </div>
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joserafael0160&show_icons=true&locale=en&layout=compact" alt="joserafael0160" /></div>
+<div align="center">
+  <img align="center" src="https://github.com/joserafael0160/joserafael0160/blob/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake  animation">
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joserafael0160&show_icons=true&locale=en&layout=compact" alt="joserafael0160">
+  <br>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joserafael0160&show_icons=true&locale=en" alt="joserafael0160" />
+</div>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joserafael0160&show_icons=true&locale=en" alt="joserafael0160" /></div>
 
-![github contribution grid snake animation](https://github.com/joserafael0160/joserafael0160/blob/output/github-contribution-grid-snake.svg)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/joserafael0160/joserafael0160/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/joserafael0160/joserafael0160/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+
