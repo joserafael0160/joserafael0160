@@ -22,8 +22,6 @@
 
 - [<img src="assets/Social/facebook.svg" width="20" align="top"> **Facebook**](https://www.facebook.com/joserafael.perezrivero.3/)  
 
-    
-
 ## 🛠️ Skills
 
 ### Front-End
@@ -55,8 +53,6 @@
 [<img src="assets/Tecnologies/linux.svg" width="35" style="margin-right:7px">](https://ubuntu.com/)
 [<img src="assets/Tecnologies/c++.svg" width="36" style="margin-right:7px">](https://cplusplus.com/)
 
-
-
 ## 📊 Github Stats
 <div align="center">
   <img align="center" src="https://github.com/joserafael0160/joserafael0160/blob/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake  animation">
@@ -67,9 +63,3 @@
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joserafael0160&theme=dark&show_icons=true&locale=en&layout=compact" alt="joserafael0160">
 </div>
-
-
-
-
-
-
