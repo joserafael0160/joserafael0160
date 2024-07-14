@@ -1,8 +1,7 @@
-<h1 align="center">Hi there👋, I'm José Rafael</h1>
+<h1 align="center">Hi there👋🏻, I'm José Rafael</h1>
 <h2 align="center">Self-taught developer from Cuba 🇨🇺, currently focused on web development👨‍💻.</h2>
 
 - 📫 How to reach me **joserafaelperezr@icloud.com**
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 <a href="www.linkedin.com/in/joserafael016" target="blank"><img align="center" src="resources/icon-linkedin.png" alt="jose_rafael016" height="40" /></a>
