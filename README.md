@@ -4,39 +4,58 @@
 
 ## 💬 Contact
 - [<img src="assets/Others/JS-character.png" width="20" align="top">**Portfolio**](https://wa.me/+5356843843?text=Hola!!)
-- [<img src="assets/Social/mail" width="20" align="top"> **Mail**](mailto:joserafaelperezr@icloud.com)
+ 
+- [<img src="assets/Contact/mail.svg" width="20" align="top"> **Mail**](mailto:joserafaelperezr@icloud.com)
+
 - [<img src="assets/Contact/telegram.svg" width="20" align="top"> **Telegram**](https://wa.me/+5356843843?text=Hola!!)
+
 - [<img src="assets/Contact/whatsapp.svg" width="20" align="top"> **WhatsApp**](https://wa.me/+5356843843?text=Hola!!)
 
 ## 👥 Social
 - [<img src="assets/Social/linkedin.svg" width="20" align="top"> **LinkedIn**](https://www.linkedin.com/in/joserafael016/) 
+
 - [<img src="assets/Social/instagram.svg" width="20" align="top"> **Instagram**](https://www.linkedin.com/in/joserafael016/)  
+
 - [<img src="assets/Social/x.svg" width="20" align="top"> **Twitter**](https://www.linkedin.com/in/joserafael016/)  
+
 - [<img src="assets/Social/tiktok.svg" width="20" align="top"> **TikTok**](https://www.linkedin.com/in/joserafael016/)  
+
 - [<img src="assets/Social/facebook.svg" width="20" align="top"> **Facebook**](https://www.linkedin.com/in/joserafael016/)  
 
     
 
-## 🧰 Languages and Tools
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="assets/icon-cpp.png" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="assets/icon-html.png" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="assets/icon-css.png" alt="css3" width="40" height="40"/> 
-  </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="assets/icon-js.png" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="assets/icon-git.png" alt="git" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="assets/icon-linux.png"  alt="linux" width="40" height="40"/> 
-  </a> 
+## 🛠️ Skills
+
+### Front-End
+[<img src="assets/Tecnologies/html5.svg" width="30" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/css.svg" width="30" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/javascript.svg" width="35" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/typescript.svg" width="35" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/sass.svg" width="30" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/postcss.svg" width="30" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/tailwindcss.svg" width="30" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/astro.svg" width="20" style="margin-right:7px">](https://www.w3.org/html/)
+
+### Back-End
+[<img src="assets/Tecnologies/nodejs.svg" width="35" style="margin-right:7px">](https://www.w3.org/html/)
+
+### Tools
+[<img src="assets/Tecnologies/git.svg" width="35" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/github.svg" width="35" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/vitejs.svg" width="35" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/npm.svg" width="40" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/bun.svg" width="40" style="margin-right:7px">](https://www.w3.org/html/)
+
+### Learning
+[<img src="assets/Tecnologies/react.svg" width="40" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/mongodb.svg" width="20" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/mysql.svg" width="40" style="margin-right:7px">](https://www.w3.org/html/)
+
+### Others
+[<img src="assets/Tecnologies/linux.svg" width="35" style="margin-right:7px">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/c++.svg" width="36" style="margin-right:7px">](https://www.w3.org/html/)
+
+
 
 ## 📊 Github Stats
 <div align="center">
