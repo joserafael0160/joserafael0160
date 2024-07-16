@@ -25,33 +25,33 @@
 ## 🛠️ Skills
 
 ### Front-End
-[<img src="assets/Tecnologies/html5.svg" width="30" style="margin-right:7px">](https://www.w3.org/html/)
-[<img src="assets/Tecnologies/css.svg" width="30" style="margin-right:7px">](https://www.w3.org/css/)
-[<img src="assets/Tecnologies/javascript.svg" width="35" style="margin-right:7px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="assets/Tecnologies/typescript.svg" width="35" style="margin-right:7px">](https://www.typescriptlang.org/)
-[<img src="assets/Tecnologies/sass.svg" width="30" style="margin-right:7px">](https://sass-lang.com/)
-[<img src="assets/Tecnologies/postcss.svg" width="30" style="margin-right:7px">](https://postcss.org/)
-[<img src="assets/Tecnologies/tailwindcss.svg" width="30" style="margin-right:7px">](https://tailwindcss.com/)
-[<img src="assets/Tecnologies/astro.svg" width="20" style="margin-right:7px">](https://astro.build/)
+[<img src="assets/Tecnologies/html5.svg" width="30">](https://www.w3.org/html/)
+[<img src="assets/Tecnologies/css.svg" width="30">](https://www.w3.org/css/)
+[<img src="assets/Tecnologies/javascript.svg" width="35">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="assets/Tecnologies/typescript.svg" width="35">](https://www.typescriptlang.org/)
+[<img src="assets/Tecnologies/sass.svg" width="30">](https://sass-lang.com/)
+[<img src="assets/Tecnologies/postcss.svg" width="30">](https://postcss.org/)
+[<img src="assets/Tecnologies/tailwindcss.svg" width="30">](https://tailwindcss.com/)
+[<img src="assets/Tecnologies/astro.svg" width="20">](https://astro.build/)
 
 ### Back-End
-[<img src="assets/Tecnologies/nodejs.svg" width="35" style="margin-right:7px">](https://nodejs.org/en)
+[<img src="assets/Tecnologies/nodejs.svg" width="35">](https://nodejs.org/en)
 
 ### Tools
-[<img src="assets/Tecnologies/git.svg" width="35" style="margin-right:7px">](https://git-scm.com/)
-[<img src="assets/Tecnologies/github.svg" width="35" style="margin-right:7px">](https://github.com/)
-[<img src="assets/Tecnologies/vitejs.svg" width="35" style="margin-right:7px">](https://vitejs.dev/)
-[<img src="assets/Tecnologies/npm.svg" width="40" style="margin-right:7px">](https://www.npmjs.com/)
-[<img src="assets/Tecnologies/bun.svg" width="40" style="margin-right:7px">](https://bun.sh/)
+[<img src="assets/Tecnologies/git.svg" width="35">](https://git-scm.com/)
+[<img src="assets/Tecnologies/github.svg" width="35">](https://github.com/)
+[<img src="assets/Tecnologies/vitejs.svg" width="35">](https://vitejs.dev/)
+[<img src="assets/Tecnologies/npm.svg" width="40">](https://www.npmjs.com/)
+[<img src="assets/Tecnologies/bun.svg" width="40">](https://bun.sh/)
 
 ### Learning
-[<img src="assets/Tecnologies/react.svg" width="40" style="margin-right:7px">](https://es.react.dev/)
-[<img src="assets/Tecnologies/mongodb.svg" width="20" style="margin-right:7px">](https://www.mongodb.com/)
-[<img src="assets/Tecnologies/mysql.svg" width="40" style="margin-right:7px">](https://www.mysql.com/)
+[<img src="assets/Tecnologies/react.svg" width="40">](https://es.react.dev/)
+[<img src="assets/Tecnologies/mongodb.svg" width="20">](https://www.mongodb.com/)
+[<img src="assets/Tecnologies/mysql.svg" width="40">](https://www.mysql.com/)
 
 ### Others
-[<img src="assets/Tecnologies/linux.svg" width="35" style="margin-right:7px">](https://ubuntu.com/)
-[<img src="assets/Tecnologies/c++.svg" width="36" style="margin-right:7px">](https://cplusplus.com/)
+[<img src="assets/Tecnologies/linux.svg" width="35">](https://ubuntu.com/)
+[<img src="assets/Tecnologies/c++.svg" width="36">](https://cplusplus.com/)
 
 ## 📊 Github Stats
 <div align="center">
