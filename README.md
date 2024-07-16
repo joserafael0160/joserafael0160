@@ -58,7 +58,7 @@
   <img align="center" src="https://github.com/joserafael0160/joserafael0160/blob/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake  animation">
   <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joserafael0160&theme=synthwave&show_icons=true&locale=en" alt="joserafael0160" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joserafael0160&theme=midnight-purple&show_icons=true&locale=en" alt="joserafael0160" />
   <br>
   <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joserafael0160&theme=dark&show_icons=true&locale=en&layout=compact" alt="joserafael0160">
