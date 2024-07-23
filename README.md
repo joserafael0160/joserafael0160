@@ -25,33 +25,153 @@
 ## 🛠️ Skills
 
 ### Front-End
-[<img src="assets/Tecnologies/html5.svg" width="30">](https://www.w3.org/html/)
-[<img src="assets/Tecnologies/css.svg" width="30">](https://www.w3.org/css/)
-[<img src="assets/Tecnologies/javascript.svg" width="35">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="assets/Tecnologies/typescript.svg" width="35">](https://www.typescriptlang.org/)
-[<img src="assets/Tecnologies/sass.svg" width="30">](https://sass-lang.com/)
-[<img src="assets/Tecnologies/postcss.svg" width="30">](https://postcss.org/)
-[<img src="assets/Tecnologies/tailwindcss.svg" width="30">](https://tailwindcss.com/)
-[<img src="assets/Tecnologies/astro.svg" width="20">](https://astro.build/)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.w3.org/html/">
+        <img src="assets/Tecnologies/html5.svg" alt="icon" height="65" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3.org/css/">
+        <img src="assets/Tecnologies/css.svg" alt="icon" height="65" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="assets/Tecnologies/javascript.svg" alt="icon" height="65" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/">
+        <img src="assets/Tecnologies/typescript.svg" alt="icon" height="65" />
+      </a>
+      <br>TypeScript
+    </td>
+    
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://sass-lang.com/">
+        <img src="assets/Tecnologies/sass.svg" alt="icon" height="65" />
+      </a>
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="https://postcss.org/">
+        <img src="assets/Tecnologies/postcss.svg" alt="icon" height="65" />
+      </a>
+      <br>PostCSS
+    </td>
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com/">
+        <img src="assets/Tecnologies/tailwindcss.svg" alt="icon" height="65" />
+      </a>
+      <br>TailWind
+    </td>
+    <td align="center" width="96">
+      <a href="https://astro.build/">
+        <img src="assets/Tecnologies/astro.svg" alt="icon" height="65" />
+      </a>
+      <br>Astro
+    </td>
+  </tr>
+</table>
 
 ### Back-End
-[<img src="assets/Tecnologies/nodejs.svg" width="35">](https://nodejs.org/en)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://nodejs.org/en">
+        <img src="assets/Tecnologies/nodejs.svg" alt="icon" height="65" />
+      </a>
+      <br>NodeJS
+    </td>
+  </tr>
+</table>
 
 ### Tools
-[<img src="assets/Tecnologies/git.svg" width="35">](https://git-scm.com/)
-[<img src="assets/Tecnologies/github.svg" width="35">](https://github.com/)
-[<img src="assets/Tecnologies/vitejs.svg" width="35">](https://vitejs.dev/)
-[<img src="assets/Tecnologies/npm.svg" width="40">](https://www.npmjs.com/)
-[<img src="assets/Tecnologies/bun.svg" width="40">](https://bun.sh/)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://git-scm.com/">
+        <img src="assets/Tecnologies/git.svg" alt="icon" height="65" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/">
+        <img src="assets/Tecnologies/github.svg" alt="icon" height="65" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="https://vitejs.dev/">
+        <img src="assets/Tecnologies/vitejs.svg" alt="icon" height="65" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.npmjs.com/">
+        <img src="assets/Tecnologies/npm.svg" alt="icon" height="65" />
+      </a>
+      <br>NPM
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://bun.sh/">
+        <img src="assets/Tecnologies/bun.svg" alt="icon" height="65" />
+      </a>
+      <br>Bun
+    </td>
+  </tr>
+</table>
 
 ### Learning
-[<img src="assets/Tecnologies/react.svg" width="40">](https://es.react.dev/)
-[<img src="assets/Tecnologies/mongodb.svg" width="20">](https://www.mongodb.com/)
-[<img src="assets/Tecnologies/mysql.svg" width="40">](https://www.mysql.com/)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://es.react.dev/">
+        <img src="assets/Tecnologies/react.svg" alt="icon" height="65" />
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/">
+        <img src="assets/Tecnologies/mongodb.svg" alt="icon" height="65" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/">
+        <img src="assets/Tecnologies/mysql.svg" alt="icon" height="65" />
+      </a>
+      <br>MySql
+    </td>
+  </tr>
+</table>
 
 ### Others
-[<img src="assets/Tecnologies/linux.svg" width="35">](https://ubuntu.com/)
-[<img src="assets/Tecnologies/c++.svg" width="36">](https://cplusplus.com/)
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://ubuntu.com/">
+        <img src="assets/Tecnologies/linux.svg" alt="icon" height="65" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://cplusplus.com/">
+        <img src="assets/Tecnologies/c++.svg" alt="icon" height="65" />
+      </a>
+      <br>C++
+    </td>
+  </tr>
+</table>
 
 ## 📊 Github Stats
 <div align="center">
@@ -61,5 +181,5 @@
   <img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=joserafael0160&count_private=true&theme=midnight-purple&border_radius=10" alt="streak stats" />
   <img width=405 src="https://github-readme-stats.vercel.app/api?username=joserafael0160&theme=midnight-purple&show_icons=true&locale=en&border_radius=10" alt="readme stats" />
   <br>
-  <img width=365 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joserafael0160&theme=midnight-purple&show_icons=true&locale=en&layout=compact&border_radius=10" alt="top langs">
+  <img width=355 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joserafael0160&theme=midnight-purple&show_icons=true&locale=en&layout=compact&border_radius=10" alt="top langs">
 </div>
