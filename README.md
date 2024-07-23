@@ -5,7 +5,7 @@
 ## 💬 Contact
 - [<img src="assets/Others/JS-character.png" width="20" align="top">**Portfolio**](https://jose-rafael.pages.dev/)
  
-- [<img src="assets/Contact/mail.svg" width="20" align="top"> **Mail**](mailto:joserafaelperezr@icloud.com)
+- [<img src="assets/Contact/mail.svg" width="20" align="top"> **Email**](mailto:joserafaelperezr@icloud.com)
 
 - [<img src="assets/Contact/telegram.svg" width="20" align="top"> **Telegram**](https://t.me/jose_rafael016)
 
@@ -29,25 +29,25 @@
   <tr>
     <td align="center" width="96">
       <a href="https://www.w3.org/html/">
-        <img src="assets/Tecnologies/html5.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/html5.svg" alt="icon" height="65" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a href="https://www.w3.org/css/">
-        <img src="assets/Tecnologies/css.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/css.svg" alt="icon" height="65" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="96">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="assets/Tecnologies/javascript.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/javascript.svg" alt="icon" height="65" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://www.typescriptlang.org/">
-        <img src="assets/Tecnologies/typescript.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/typescript.svg" alt="icon" height="65" />
       </a>
       <br>TypeScript
     </td>
@@ -56,67 +56,69 @@
   <tr>
     <td align="center" width="96">
       <a href="https://sass-lang.com/">
-        <img src="assets/Tecnologies/sass.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/sass.svg" alt="icon" height="65" />
       </a>
       <br>Sass
     </td>
     <td align="center" width="96">
       <a href="https://postcss.org/">
-        <img src="assets/Tecnologies/postcss.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/postcss.svg" alt="icon" height="65" />
       </a>
       <br>PostCSS
     </td>
     <td align="center" width="96">
       <a href="https://tailwindcss.com/">
-        <img src="assets/Tecnologies/tailwindcss.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/tailwindcss.svg" alt="icon" height="65" />
       </a>
-      <br>TailWind
+      <br>Tailwind CSS
     </td>
     <td align="center" width="96">
       <a href="https://astro.build/">
-        <img src="assets/Tecnologies/astro.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/astro.svg" alt="icon" height="65" />
       </a>
       <br>Astro
     </td>
   </tr>
 </table>
+<br>
 
 ### Back-End
 <table align="center">
   <tr>
     <td align="center" width="96">
       <a href="https://nodejs.org/en">
-        <img src="assets/Tecnologies/nodejs.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/nodejs.svg" alt="icon" height="65" />
       </a>
-      <br>NodeJS
+      <br>Node.js
     </td>
   </tr>
 </table>
+<br>
 
 ### Tools
 <table align="center">
   <tr>
     <td align="center" width="96">
       <a href="https://git-scm.com/">
-        <img src="assets/Tecnologies/git.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/git.svg" alt="icon" height="65" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="https://github.com/">
-        <img src="assets/Tecnologies/github.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/github.svg" alt="icon" height="65" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="96">
       <a href="https://vitejs.dev/">
-        <img src="assets/Tecnologies/vitejs.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/vitejs.svg" alt="icon" height="65" />
       </a>
       <br>Vite
     </td>
     <td align="center" width="96">
       <a href="https://www.npmjs.com/">
-        <img src="assets/Tecnologies/npm.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/npm.svg" alt="icon" height="65" />
       </a>
       <br>NPM
     </td>
@@ -124,54 +126,57 @@
   <tr>
     <td align="center" width="96">
       <a href="https://bun.sh/">
-        <img src="assets/Tecnologies/bun.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/bun.svg" alt="icon" height="65" />
       </a>
       <br>Bun
     </td>
   </tr>
 </table>
+<br>
 
 ### Learning
 <table align="center">
   <tr>
     <td align="center" width="96">
       <a href="https://es.react.dev/">
-        <img src="assets/Tecnologies/react.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/react.svg" alt="icon" height="65" />
       </a>
       <br>ReactJS
     </td>
     <td align="center" width="96">
       <a href="https://www.mongodb.com/">
-        <img src="assets/Tecnologies/mongodb.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/mongodb.svg" alt="icon" height="65" />
       </a>
       <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="https://www.mysql.com/">
-        <img src="assets/Tecnologies/mysql.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/mysql.svg" alt="icon" height="65" />
       </a>
       <br>MySql
     </td>
   </tr>
 </table>
+<br>
 
 ### Others
 <table align="center">
   <tr>
     <td align="center" width="96">
       <a href="https://ubuntu.com/">
-        <img src="assets/Tecnologies/linux.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/linux.svg" alt="icon" height="65" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="96">
       <a href="https://cplusplus.com/">
-        <img src="assets/Tecnologies/c++.svg" alt="icon" height="65" />
+        <img src="assets/Technologies/c++.svg" alt="icon" height="65" />
       </a>
       <br>C++
     </td>
   </tr>
 </table>
+<br>
 
 ## 📊 Github Stats
 <div align="center">
