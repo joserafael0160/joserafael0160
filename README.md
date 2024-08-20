@@ -78,6 +78,12 @@
       </a>
       <br>Astro
     </td>
+    <td align="center" width="96">
+      <a href="https://es.react.dev/">
+        <img src="assets/Technologies/react.svg" alt="icon" height="65" />
+      </a>
+      <br>ReactJS
+    </td>
   </tr>
 </table>
 <br>
@@ -137,12 +143,6 @@
 ### Learning
 <table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="https://es.react.dev/">
-        <img src="assets/Technologies/react.svg" alt="icon" height="65" />
-      </a>
-      <br>ReactJS
-    </td>
     <td align="center" width="96">
       <a href="https://www.mongodb.com/">
         <img src="assets/Technologies/mongodb.svg" alt="icon" height="65" />
