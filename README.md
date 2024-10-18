@@ -1,6 +1,12 @@
 # <img src="assets/Others/JS-character.png" align="center" alt="José Rafael Character" height="50"> <span style="color: #eeee">Hi there 👋🏻, I'm José Rafael</span>
 
-### Self-taught developer from Cuba 🇨🇺, currently focused on <span style="color: #a855f7">Web Development</span> 👨🏻‍💻.
+I'm a **Web developer** 💻 with a strong background in **competitive programming** 🏆. I have honed my skills through countless hours of coding and problem-solving, which has prepared me for a wide range of challenges in the tech world.
+
+Currently, I'm pursuing a ***Computer Science*** degree at @matcom 📚. My academic journey is expanding my knowledge and providing a deeper understanding of the theoretical foundations of computing, while also giving me the opportunity to apply these concepts in practical projects.
+
+In my free time, I enjoy *exploring new technologies 🌐, building personal projects, and contributing to open-source communities 🤝*. My passion for coding drives me to keep learning and improving every day.
+
+Feel free to *connect with me* if you share similar interests or if you have exciting projects in mind! :)
 
 ## 💬 Contact
 - [<img src="assets/Others/JS-character.png" width="20" align="top">**Portfolio**](https://jose-rafael.pages.dev/)
