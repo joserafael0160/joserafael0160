@@ -1,6 +1,6 @@
 # <img src="assets/Others/JS-character.png" align="center" alt="José Rafael Character" height="50"> <span style="color: #eeee">Hi there 👋🏻, I'm José Rafael</span>
 
-I'm a **Web developer** 💻 with a strong background in **competitive programming** 🏆. I have honed my skills through countless hours of coding and problem-solving, which has prepared me for a wide range of challenges in the tech world.
+I'm **Web developer** 💻 with a strong background in **competitive programming** 🏆. I have honed my skills through countless hours of coding and problem-solving, which has prepared me for a wide range of challenges in the tech world.
 
 Currently, I'm pursuing a ***Computer Science*** degree at @matcom 📚. My academic journey is expanding my knowledge and providing a deeper understanding of the theoretical foundations of computing, while also giving me the opportunity to apply these concepts in practical projects.
 
